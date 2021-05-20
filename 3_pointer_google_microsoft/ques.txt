@@ -1,0 +1,2 @@
+Given an array A[] of N integers and an integer X. The task is to find the sum of three integers in A[] such that it is closest to X.
+
